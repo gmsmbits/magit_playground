@@ -1,0 +1,5 @@
+This is yet another file to play with alongside with Dvorak layout
+touchtyping practice.
+
+Here'is another line after staging in Magit, but without commiting
+Let's see what happens after save.
