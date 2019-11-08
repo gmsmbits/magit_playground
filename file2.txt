@@ -3,3 +3,19 @@ touchtyping practice.
 
 Here'is another line after staging in Magit, but without commiting
 Let's see what happens after save.
+
+and yet another time
+look what Magit status window shows:
+Unstaged changes (1)
+modified   file2.txt
+@@ -3,3 +3,5 @@ touchtyping practice.
+ 
+ Here'is another line after staging in Magit, but without commiting
+ Let's see what happens after save.
++
++and yet another time
+
+Staged changes (1)
+new file   file2.txt
+
+I will commit only staged changes
